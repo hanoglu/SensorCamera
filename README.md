@@ -12,7 +12,7 @@ Both sensor data and video will be saved DCIM/SensorKamera directory.<br>
 
 # Acceleration Estimation Application - Java Desktop
 This Java desktop application is designed to estimate position of an object with using video file and accelerometer data file captured with Sensor Camera app in Android.<br>
-Copy video file and accelerometer data file with same name to your computer then in application specify alpha value and video file path with extension.<br>
+Copy video file and accelerometer data file with same name to your computer, then in application, specify alpha value and video file path with extension.<br>
 
 # Releases
 [V1.1 - Acceleration Estimation](https://drive.google.com/open?id=1vmU6GUG3t3aa5wHWWr0glp8FQ4RcGMU4)
