@@ -8,6 +8,7 @@ To record sensor data go settings and check "İvme Verisini Kaydet" radio button
 Both sensor data and video will be saved DCIM/SensorKamera directory.<br>
 
 # Releases
+[V1.7 - Sensor Camera (English)](https://drive.google.com/open?id=1DnfzCJbWb9iaORXxlb3FyJdIUfJ5njcf)
 [V1.6 - Sensor Camera (Turkish)](https://drive.google.com/open?id=1xVmTH_aDI4J3eaT37w13Md8cpjObl-hc)
 
 # Acceleration Estimation Application - Java Desktop
