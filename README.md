@@ -23,7 +23,7 @@ V1.1 - Acceleration Estimation
 
 # Samples
 [Video Samples](https://drive.google.com/open?id=1PKtGLsmNJqkDpbaXovzigSYElGIMpiez)<br>
-[Usage Samples](https://drive.google.com/open?id=15TVBRzGi_MRuwwZEocUp0MUSng2NXFtV)
+[Usage Samples](https://drive.google.com/open?id=15TVBRzGi_MRuwwZEocUp0MUSng2NXFtV)<br>
 <br>
 
-<i>asdf</i>
+<i>Note: If Acceleration Estimation Application gives blank gray screen despite of true path of video file it might be indicating that your graphic card does not fully compatible with that version of OpenCV.</i>
