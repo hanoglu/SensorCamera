@@ -18,7 +18,7 @@ Acceleration Estimation application can use Tiny-Yolo to update bounding box coo
 
 # Releases
 [V1.3 - Acceleration Estimation](https://drive.google.com/open?id=1BpGrXyRXiHQfDalwu3vSQT2xMHMJDDY9)<br>
-V1.2 - Acceleration Estimation
+V1.2 - Acceleration Estimation<br>
 V1.1 - Acceleration Estimation
 
 # Samples
