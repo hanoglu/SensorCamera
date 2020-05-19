@@ -14,9 +14,10 @@ Both sensor data and video will be saved DCIM/SensorKamera directory.<br>
 # Acceleration Estimation Application - Java Desktop
 This Java desktop application is designed to estimate position of an object with using video file and accelerometer data file captured with Sensor Camera app in Android.<br>
 Copy video file and accelerometer data file with same name to your computer, then in application, specify alpha value and video file path with extension.<br>
-Acceleration Estimation application can use Tiny-Yolo to update bounding box coordinates. This option can be activated in application menu. Bounding boxes founded by Yolo will be shown red.<br>
+Acceleration Estimation application can use Tiny-Yolo to update bounding box coordinates. This option can be activated in application menu. Bounding boxes founded by accelerometer data will be shown red, founded by Yolo will be shown green if the bounding box fully coincide with estimation or cyan if the bounding box intersects with estimation or blue if the bounding box does not intersect with estimation.<br>
 
 # Releases
+[V1.4 - Acceleration Estimation](https://drive.google.com/open?id=1eELM4iosxgq6eCDQYULCp1KW5eZvILEy)<br>
 [V1.3 - Acceleration Estimation](https://drive.google.com/open?id=1BpGrXyRXiHQfDalwu3vSQT2xMHMJDDY9)<br>
 V1.2 - Acceleration Estimation<br>
 V1.1 - Acceleration Estimation
