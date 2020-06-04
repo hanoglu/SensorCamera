@@ -17,12 +17,14 @@ Copy video file and accelerometer data file with same name to your computer, the
 Acceleration Estimation application can use Tiny-Yolo to update bounding box coordinates. This option can be activated in application menu. Bounding boxes founded by accelerometer data will be shown red, founded by Yolo will be shown green if the bounding box fully coincide with estimation or cyan if the bounding box intersects with estimation or blue if the bounding box does not intersect with estimation.<br>
 
 # Releases
-[V1.4 - Acceleration Estimation](https://drive.google.com/open?id=1eELM4iosxgq6eCDQYULCp1KW5eZvILEy)<br>
+[V1.5 - Acceleration Estimation](https://drive.google.com/file/d/10I4cRoAPrNxKbYjQPxBPip8OtNbs3BhN/view?usp=sharing)<br>
+V1.4 - Acceleration Estimation<br>
 [V1.3 - Acceleration Estimation](https://drive.google.com/open?id=1BpGrXyRXiHQfDalwu3vSQT2xMHMJDDY9)<br>
 V1.2 - Acceleration Estimation<br>
 V1.1 - Acceleration Estimation
 
 # Samples
+[Video Samples for V1.5](https://drive.google.com/file/d/1k6Fp2bTy_7pMkYJggb7h1VEjG1-Z7VZy/view?usp=sharing)<br>
 [Video Samples](https://drive.google.com/open?id=1PKtGLsmNJqkDpbaXovzigSYElGIMpiez)<br>
 [Usage Samples](https://drive.google.com/open?id=15TVBRzGi_MRuwwZEocUp0MUSng2NXFtV)<br>
 <br>
