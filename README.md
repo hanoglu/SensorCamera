@@ -19,12 +19,12 @@ Bounding boxes founded by accelerometer data will be shown red, founded by Yolo 
 
 # Releases
 [V1.61 - Acceleration Estimation](https://drive.google.com/file/d/1dr3NBt3xych4xf51yqTlfbNOiniiOfnC/view?usp=sharing)<br>
-[V1.6 - Acceleration Estimation](https://drive.google.com/file/d/1bIcjxC3ny8QYmJ9rrXM3TaUXutl0da3A/view?usp=sharing)<br>
-[V1.5 - Acceleration Estimation](https://drive.google.com/file/d/10I4cRoAPrNxKbYjQPxBPip8OtNbs3BhN/view?usp=sharing)<br>
-V1.4 - Acceleration Estimation<br>
-[V1.3 - Acceleration Estimation](https://drive.google.com/open?id=1BpGrXyRXiHQfDalwu3vSQT2xMHMJDDY9)<br>
-V1.2 - Acceleration Estimation<br>
-V1.1 - Acceleration Estimation
+[V1.6  - Acceleration Estimation](https://drive.google.com/file/d/1bIcjxC3ny8QYmJ9rrXM3TaUXutl0da3A/view?usp=sharing)<br>
+[V1.5  - Acceleration Estimation](https://drive.google.com/file/d/10I4cRoAPrNxKbYjQPxBPip8OtNbs3BhN/view?usp=sharing)<br>
+V1.4  - Acceleration Estimation<br>
+[V1.3  - Acceleration Estimation](https://drive.google.com/open?id=1BpGrXyRXiHQfDalwu3vSQT2xMHMJDDY9)<br>
+V1.2  - Acceleration Estimation<br>
+V1.1  - Acceleration Estimation
 
 # Samples
 [Video Samples for V1.6](https://drive.google.com/file/d/1x0R58basjZ9K1ZpFCl-UxXY3-kb-m_K7/view?usp=sharing)<br>
