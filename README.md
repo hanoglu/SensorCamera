@@ -13,7 +13,8 @@ This Java desktop application is designed to estimate position of an object with
 Copy video file and accelerometer data file with same name to your computer, then in application, specify alpha value and video file path with extension.<br>
 Acceleration Estimation application can use Tiny-Yolo to update bounding box coordinates. This option can be activated in application menu.<br>
 Bounding boxes founded by accelerometer data will be shown red, founded by Yolo will be shown green if the bounding box coincide with estimation or cyan if the bounding box does not intersect with estimation.<br>
-[Releases](https://github.com/yusufhanoglu/SensorCamera/releases)
+[Releases](https://github.com/yusufhanoglu/SensorCamera/releases)<br>
+<i>Note: If Acceleration Estimation Application gives blank gray screen despite of true path of video file it might be indicating that your graphics card does not fully compatible with this version of OpenCV.</i>
 
 
 # Samples
@@ -24,4 +25,8 @@ Bounding boxes founded by accelerometer data will be shown red, founded by Yolo 
 [Usage Samples](https://drive.google.com/open?id=15TVBRzGi_MRuwwZEocUp0MUSng2NXFtV)<br>
 <br>
 
-<i>Note: If Acceleration Estimation Application gives blank gray screen despite of true path of video file it might be indicating that your graphics card does not fully compatible with this version of OpenCV.</i>
+# Object Tracker - All in One Android App
+This Android application is designed to both capture video and track objects. This application is a combination of the above two apps.<br>
+[Examine](https://github.com/yusufhanoglu/ObjectDetector)<br>
+
+
