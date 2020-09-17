@@ -13,7 +13,7 @@ This Java desktop application is designed to estimate position of an object with
 Copy video file and accelerometer data file with same name to your computer, then in application, specify alpha value and video file path with extension.<br>
 Acceleration Estimation application can use Tiny-Yolo to update bounding box coordinates. This option can be activated in application menu.<br>
 Bounding boxes founded by accelerometer data will be shown red, founded by Yolo will be shown green if the bounding box coincide with estimation or cyan if the bounding box does not intersect with estimation.<br>
-[Releases](https://github.com/yusufhanoglu/SensorCamera/releases)<br>
+[Releases](https://github.com/yusufhanoglu/SensorCamera/releases)<br><br>
 <i>Note: If Acceleration Estimation Application gives blank gray screen despite of true path of video file it might be indicating that your graphics card does not fully compatible with this version of OpenCV.</i>
 
 
