@@ -6,6 +6,7 @@ This Android application is designed to capture video and accelerometer data fra
 Sensor Camera app records video and accelerometer data simultaneously, accelerometer data will be saved in a .txt file.<br>
 To record sensor data go settings and check "İvme Verisini Kaydet" radio button. <br>
 Both sensor data and video will be saved DCIM/SensorKamera directory.<br>
+[Source Codes](https://drive.google.com/file/d/1iyzQsXLP47za_Jud2ZMU2U4I-wDeBqbN/view?usp=sharing)<br>
 [Releases](https://github.com/yusufhanoglu/SensorCamera/releases)
 
 # Acceleration Estimation Application - Java Desktop
